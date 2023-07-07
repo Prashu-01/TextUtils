@@ -1,7 +1,22 @@
+
+*{
+  transition: all .1s;
+}
+
 .App {
   text-align: center;
 }
+.form-control{
+  background-color: rgb(251 251 251);
+}
+.container{
+  /* margin: auto !important; */
+  width: 70%;
 
+}
+.palette{
+  cursor: pointer;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
