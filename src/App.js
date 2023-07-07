@@ -61,7 +61,7 @@ function App() {
       <Navbar mode={mode} togglemode={togglemode} />
       <div>
         <Routes>
-          <Route path="/Prashu-01/TextUtils" element={<TextArea heading="Enter your text here" mode={mode} />}>
+          <Route path="/" element={<TextArea heading="Enter your text here" mode={mode} />}>
           </Route>
           <Route path="/about" element={<About />}>
           </Route>
