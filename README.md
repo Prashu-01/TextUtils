@@ -1,10 +1,11 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
+
+> Fork the repo
+> git clone https://github.com/<username>/TextUtils.git
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
@@ -70,5 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# TextUtils
->>>>>>> 81f19057954c29c647203a44a5855945f20a4ee9
+
